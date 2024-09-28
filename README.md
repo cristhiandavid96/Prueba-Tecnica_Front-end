@@ -1,10 +1,10 @@
 # Prueba tecnica
 
-Este proyecto  es una prueba tecnica , cumple con las siguientes funcionalidades:
+Este proyecto  es una prueba tecnica y cumple con las siguientes funcionalidades:
 
->Consulta de API de usuarios de github 
->Busqueda de usuario por nombre 
->Muestra la cantidad de seguidores de los usuarios
+## >Consulta de API de usuarios de github 
+## >Busqueda de usuario por nombre 
+## >Muestra la cantidad de seguidores de los usuarios
 
 ## Comandos para ejecutar
 
@@ -24,6 +24,11 @@ Con este comando puedes ejecutar las pruebas unitarias
 
 ### `npm run build`
 
-Con este comando  compilas el aplicativo 
+Con este comando  compilas el aplicativo .
+
+
+
+![image](https://github.com/user-attachments/assets/72e4fbcb-f8b9-4f58-914e-41dca4f2384f)
+
 
 
