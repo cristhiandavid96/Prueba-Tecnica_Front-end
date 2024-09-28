@@ -29,6 +29,7 @@ Con este comando  compilas el aplicativo .
 
 
 ![image](https://github.com/user-attachments/assets/72e4fbcb-f8b9-4f58-914e-41dca4f2384f)
+![image](https://github.com/user-attachments/assets/26e82bca-15e0-4918-add1-e4b1eff5fcc5)
 
 
 
