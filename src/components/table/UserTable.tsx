@@ -81,7 +81,6 @@ const UserTable = () => {
     }
   };
 
-  console.log(users)
   return (
     <div className="user-table">
       <h2>Buscar Usuarios en GitHub</h2>
@@ -113,7 +112,6 @@ const UserTable = () => {
             <th>ID</th>
             <th>Login</th>
             <th>Profile</th>
-            <th>Seguidores</th>
           </tr>
         </thead>
         <tbody>
@@ -133,8 +131,7 @@ const UserTable = () => {
                     className="user-image"
                     onClick={() => handleImageClick(user.login,user)}
                   />
-                </td>
-                <td>{user.followers || 'N/A'}</td>
+                </td>               
               </tr>
             ))}
         </tbody>

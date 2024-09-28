@@ -6,7 +6,6 @@ import "./UserTable.scss";
 const UserDetail = () => {
   const { userName, user } = useParams();
   let location = useLocation();
-  console.log(location.state);
   return (
     <div className="user-detail">
       <h2>Datos del usuario</h2>
